@@ -1,9 +1,38 @@
 {
   "catalog": {
     "product_lines": [
-      { "id_product_line": 1, "title": "Post 1" },
-      { "id_product_line": 2, "title": "Post 2" },
-      { "id_product_line": 3, "title": "Post 3" } 
+      { 
+        "id_product_line": 12, 
+        "parent_id": 4, 
+        "name": "Originals" 
+      },
+      { 
+        "id_product_line": 73, 
+        "parent_id": 12,
+        "name": "Gent",
+        "sku": [
+          "AAT01",
+          "AAT02",
+          "AAT03"
+        ]
+      }
+    ],
+    "watches": [
+      {
+        "sku": "AAT01",
+        "title": "SUMMER LEAVES",
+        "description": "Tout ceci est bien joli"
+      },
+      {
+        "sku": "AAT02",
+        "title": "SISTEM KAMU",
+        "description": "Perfecto et sublime"
+      },
+      {
+        "sku": "AAT03",
+        "title": "BORDUJAS",
+        "description": "Indémodable"
+      }
     ]
   }
 }
