@@ -1,7 +1,9 @@
 {
-  "atsukes": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ]
+  "catalog": {
+    "product_lines": [
+      { "id_product_line": 1, "title": "Post 1" },
+      { "id_product_line": 2, "title": "Post 2" },
+      { "id_product_line": 3, "title": "Post 3" } 
+    ]
+  }
 }
