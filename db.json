@@ -21,17 +21,56 @@
       {
         "sku": "AAT01",
         "title": "SUMMER LEAVES",
-        "description": "Tout ceci est bien joli"
+        "description": "Tout ceci est bien joli",
+        "lang": "FR"
+      },
+      {
+        "sku": "AAT01",
+        "title": "SUMMER LEAVES",
+        "description": "All of this is great",
+        "lang": "EN"
+      },
+      {
+        "sku": "AAT01",
+        "title": "SUMMER LEAVES",
+        "description": "Das alles ist großartig",
+        "lang": "DE"
       },
       {
         "sku": "AAT02",
         "title": "SISTEM KAMU",
-        "description": "Perfecto et sublime"
+        "description": "Parfait et sublime",
+        "lang": "FR"
+      },
+      {
+        "sku": "AAT02",
+        "title": "SISTEM KAMU",
+        "description": "Perfect and wonderful",
+        "lang": "EN"
+      },
+      {
+        "sku": "AAT02",
+        "title": "SISTEM KAMU",
+        "description": "Perfekt und wunderbar",
+        "lang": "DE"
       },
       {
         "sku": "AAT03",
         "title": "BORDUJAS",
-        "description": "Indémodable"
+        "description": "Indémodable",
+        "lang": "FR"
+      },
+      {
+        "sku": "AAT03",
+        "title": "BORDUJAS",
+        "description": "Timeless",
+        "lang": "EN"
+      },
+      {
+        "sku": "AAT03",
+        "title": "BORDUJAS",
+        "description": "zeitlos",
+        "lang": "DE"
       }
     ]
   }
