@@ -7,6 +7,11 @@
       "1989",
       "1990"
     ],
+    "langs": [
+      "FR",
+      "EN",
+      "DE"
+    ],
     "product_lines": [
       { 
         "id_product_line": 12, 
