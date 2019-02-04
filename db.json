@@ -10,7 +10,6 @@
     "product_lines": [
       { 
         "id_product_line": 12, 
-        "parent_id": 4, 
         "name": "Originals",
         "year": "1987"
       },
