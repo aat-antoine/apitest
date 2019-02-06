@@ -28,96 +28,116 @@
       { 
         "id": 73, 
         "parentId": 12,
-        "name": "Gent",
-        "description": "Un design innovant",
+        "trad": [
+          54,
+          55,
+          56
+        ],
         "sku": [
           "AAT01",
           "AAT02",
           "AAT03"
         ],
         "lang": "FR"
-      },
-      { 
-        "id": 73, 
-        "parentId": 12,
-        "name": "Gent",
-        "description": "An innovative design",
-        "sku": [
-          "AAT01",
-          "AAT02",
-          "AAT03"
-        ],
-        "lang": "EN"
-      },
-      { 
-        "id": 73, 
-        "parentId": 12,
-        "name": "Gent",
-        "description": "Ein innovatives Design",
-        "sku": [
-          "AAT01",
-          "AAT02",
-          "AAT03"
-        ],
-        "lang": "DE"
       }
     ],
+    "productLinesTraductions": [{
+      "id": 54,
+      "name": "Gent",
+      "description": "Un design innovant",
+      "lang": "FR"
+    },
+    {
+      "id": 55,
+      "name": "Gent",
+      "description": "An innovative design",
+      "lang": "EN"
+    },
+    {
+      "id": 56,
+      "name": "Gent",
+      "description": "Ein innovatives Design",
+      "lang": "DE"
+    }],
     "watches": [
       {
         "sku": "AAT01",
-        "name": "SUMMER LEAVES",
-        "description": "Tout ceci est bien joli",
-        "lang": "FR"
-      },
-      {
-        "sku": "AAT01",
-        "name": "SUMMER LEAVES",
-        "description": "All of this is great",
-        "lang": "EN"
-      },
-      {
-        "sku": "AAT01",
-        "name": "SUMMER LEAVES",
-        "description": "Das alles ist großartig",
-        "lang": "DE"
+        "trads": [
+          67,
+          68,
+          69
+        ]
       },
       {
         "sku": "AAT02",
-        "name": "SISTEM KAMU",
-        "description": "Parfait et sublime",
-        "lang": "FR"
-      },
-      {
-        "sku": "AAT02",
-        "title": "SISTEM KAMU",
-        "description": "Perfect and wonderful",
-        "lang": "EN"
-      },
-      {
-        "sku": "AAT02",
-        "name": "SISTEM KAMU",
-        "description": "Perfekt und wunderbar",
-        "lang": "DE"
+        "trads": [
+          70,
+          71,
+          72
+        ]
       },
       {
         "sku": "AAT03",
-        "title": "BORDUJAS",
-        "description": "Indémodable",
-        "lang": "FR"
-      },
-      {
-        "sku": "AAT03",
-        "name": "BORDUJAS",
-        "description": "Timeless",
-        "lang": "EN"
-      },
-      {
-        "sku": "AAT03",
-        "name": "BORDUJAS",
-        "description": "zeitlos",
-        "lang": "DE"
+        "trads": [
+          73,
+          74,
+          75
+        ]
       }
     ],
+    ,
+    "watchesTraductions": [{
+      "id": 67,
+      "name": "SUMMER LEAVES",
+      "description": "Tout ceci est bien joli",
+      "lang": "FR"
+    },
+    {
+      "id": 68,
+      "name": "SUMMER LEAVES",
+      "description": "All of this is great",
+      "lang": "EN"
+    },
+    {
+      "id": 69,
+      "name": "SUMMER LEAVES",
+      "description": "Das alles ist großartig",
+      "lang": "DE"
+    }, {
+      "id": 70,
+      "name": "SISTEM KAMU",
+      "description": "Parfait et sublime",
+      "lang": "FR"
+    },
+    {
+      "id": 71,
+      "title": "SISTEM KAMU",
+      "description": "Perfect and wonderful",
+      "lang": "EN"
+    },
+    {
+      "id": 72,
+      "title": "SISTEM KAMU",
+      "description": "Perfect and wonderful",
+      "lang": "EN"
+    }, {
+      "id": 73,
+      "title": "BORDUJAS",
+      "description": "Indémodable",
+      "lang": "FR"
+    },
+    {
+      "id": 74,
+      "name": "BORDUJAS",
+      "description": "Timeless",
+      "lang": "EN"
+    },
+    {
+      "id": 75,
+      "name": "BORDUJAS",
+      "description": "zeitlos",
+      "lang": "DE"
+    }],
     "texts": [{
       "key": "home",
       "value": "Explorer toutes les collections swatch de 1983 à nos jours",
