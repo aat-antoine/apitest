@@ -1,56 +1,89 @@
 {
   "catalog": {
-    "years": [
-      "1986",
-      "1987",
-      "1988",
-      "1989",
-      "1990"
+    "years": [{
+       "year": "1986",
+       "imageUrl": "https://static.swatch.com/images/product/GZ191/sa000/GZ191_sa000_nvs.jpg",
+       "backgroundUrl": "https://static.swatch.com/images/product/GZ191/sa000/GZ191_sa000_nvs.jpg"
+     }, {
+       "year": "1987",
+       "imageUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg",
+       "backgroundUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg"
+     }, {
+       "year": "1990",
+       "imageUrl": "https://static.swatch.com/images/product/GN718C/sa000/GN718C_sa000_nvs.jpg",
+       "backgroundUrl": "https://static.swatch.com/images/product/GN718C/sa000/GN718C_sa000_nvs.jpg"
+     }
     ],
     "langs": [
       "FR",
       "EN",
       "DE"
     ],
-    "product_lines": [
+    "productLines": [
       { 
-        "id_product_line": 12, 
+        "id": 12, 
         "name": "Originals",
         "year": "1987"
       },
       { 
-        "id_product_line": 73, 
-        "parent_id": 12,
+        "id": 73, 
+        "parentId": 12,
         "name": "Gent",
+        "description": "Un design innovant",
         "sku": [
           "AAT01",
           "AAT02",
           "AAT03"
-        ]
+        ],
+        "lang": "FR"
+      },
+      { 
+        "id": 73, 
+        "parentId": 12,
+        "name": "Gent",
+        "description": "An innovative design",
+        "sku": [
+          "AAT01",
+          "AAT02",
+          "AAT03"
+        ],
+        "lang": "EN"
+      },
+      { 
+        "id": 73, 
+        "parentId": 12,
+        "name": "Gent",
+        "description": "Ein innovatives Design",
+        "sku": [
+          "AAT01",
+          "AAT02",
+          "AAT03"
+        ],
+        "lang": "DE"
       }
     ],
     "watches": [
       {
         "sku": "AAT01",
-        "title": "SUMMER LEAVES",
+        "name": "SUMMER LEAVES",
         "description": "Tout ceci est bien joli",
         "lang": "FR"
       },
       {
         "sku": "AAT01",
-        "title": "SUMMER LEAVES",
+        "name": "SUMMER LEAVES",
         "description": "All of this is great",
         "lang": "EN"
       },
       {
         "sku": "AAT01",
-        "title": "SUMMER LEAVES",
+        "name": "SUMMER LEAVES",
         "description": "Das alles ist großartig",
         "lang": "DE"
       },
       {
         "sku": "AAT02",
-        "title": "SISTEM KAMU",
+        "name": "SISTEM KAMU",
         "description": "Parfait et sublime",
         "lang": "FR"
       },
@@ -62,7 +95,7 @@
       },
       {
         "sku": "AAT02",
-        "title": "SISTEM KAMU",
+        "name": "SISTEM KAMU",
         "description": "Perfekt und wunderbar",
         "lang": "DE"
       },
@@ -74,16 +107,29 @@
       },
       {
         "sku": "AAT03",
-        "title": "BORDUJAS",
+        "name": "BORDUJAS",
         "description": "Timeless",
         "lang": "EN"
       },
       {
         "sku": "AAT03",
-        "title": "BORDUJAS",
+        "name": "BORDUJAS",
         "description": "zeitlos",
         "lang": "DE"
       }
-    ]
+    ],
+    "texts": [{
+      "key": "home",
+      "value": "Explorer toutes les collections swatch de 1983 à nos jours",
+      "lang": "FR"
+    }, {
+      "key": "home",
+      "value": "Explore all swatch collections from 1983 to now",
+      "lang": "EN"
+    }, {
+      "key": "home",
+      "value": "Entdecken Sie alle Swatch-Sammlungen von 1983 bis heute",
+      "lang": "DE"
+    }]
   }
 }
