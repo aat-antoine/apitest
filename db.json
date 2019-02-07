@@ -14,7 +14,7 @@
        "backgroundUrl": "https://static.swatch.com/images/product/GN718C/sa000/GN718C_sa000_nvs.jpg"
      }
     ],
-    "langs": [
+    "languages": [
       "FR",
       "EN",
       "DE"
@@ -28,7 +28,7 @@
       { 
         "id": 73, 
         "parentId": 12,
-        "trads": [
+        "translations": [
           54,
           55,
           56
@@ -38,31 +38,31 @@
           "AAT02",
           "AAT03"
         ],
-        "lang": "FR"
+        "language": "FR"
       }
     ],
-    "productLinesTraductions": [{
+    "productLineTranslations": [{
       "id": 54,
       "name": "Gent",
       "description": "Un design innovant",
-      "lang": "FR"
+      "language": "FR"
     },
     {
       "id": 55,
       "name": "Gent",
       "description": "An innovative design",
-      "lang": "EN"
+      "language": "EN"
     },
     {
       "id": 56,
       "name": "Gent",
       "description": "Ein innovatives Design",
-      "lang": "DE"
+      "language": "DE"
     }],
     "watches": [
       {
         "sku": "AAT01",
-        "trads": [
+        "translations": [
           67,
           68,
           69
@@ -70,7 +70,7 @@
       },
       {
         "sku": "AAT02",
-        "trads": [
+        "translations": [
           70,
           71,
           72
@@ -78,58 +78,58 @@
       },
       {
         "sku": "AAT03",
-        "trads": [
+        "translations": [
           73,
           74,
           75
         ]
       }
     ],
-    "watchesTraductions": [{
+    "watchTranslations": [{
       "id": 67,
       "name": "SUMMER LEAVES",
       "description": "Tout ceci est bien joli",
-      "lang": "FR"
+      "language": "FR"
     },
     {
       "id": 68,
       "name": "SUMMER LEAVES",
       "description": "All of this is great",
-      "lang": "EN"
+      "language": "EN"
     },
     {
       "id": 69,
       "name": "SUMMER LEAVES",
       "description": "Das alles ist großartig",
-      "lang": "DE"
+      "language": "DE"
     }, {
       "id": 70,
       "name": "SISTEM KAMU",
       "description": "Parfait et sublime",
-      "lang": "FR"
+      "language": "FR"
     },
     {
       "id": 71,
       "title": "SISTEM KAMU",
       "description": "Perfect and wonderful",
-      "lang": "EN"
+      "language": "EN"
     },
     {
       "id": 72,
       "title": "SISTEM KAMU",
       "description": "Perfect and wonderful",
-      "lang": "EN"
+      "language": "EN"
     }, {
       "id": 73,
       "title": "BORDUJAS",
       "description": "Indémodable",
-      "lang": "FR"
+      "language": "FR"
     },
     {
       "id": 74,
       "name": "BORDUJAS",
       "description": "Timeless",
-      "lang": "EN"
+      "language": "EN"
     },
     {
       "id": 75,
@@ -140,15 +140,15 @@
     "texts": [{
       "key": "home",
       "value": "Explorer toutes les collections swatch de 1983 à nos jours",
-      "lang": "FR"
+      "language": "FR"
     }, {
       "key": "home",
       "value": "Explore all swatch collections from 1983 to now",
-      "lang": "EN"
+      "language": "EN"
     }, {
       "key": "home",
       "value": "Entdecken Sie alle Swatch-Sammlungen von 1983 bis heute",
-      "lang": "DE"
+      "language": "DE"
     }]
   }
 }
