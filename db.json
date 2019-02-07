@@ -14,10 +14,16 @@
        "backgroundUrl": "https://static.swatch.com/images/product/GN718C/sa000/GN718C_sa000_nvs.jpg"
      }
     ],
-    "languages": [
-      "FR",
-      "EN",
-      "DE"
+    "languages": [{
+      "id": "FR",
+      "label": "Français"
+    }, {
+      "id": "EN",
+      "label": "English"
+    }, {
+      "id": "DE",
+      "label": "Deutsch"
+    }
     ],
     "productLines": [
       { 
