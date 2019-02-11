@@ -34,11 +34,8 @@
       { 
         "id": 73, 
         "parentId": 12,
-        "translations": [
-          54,
-          55,
-          56
-        ],
+        "name": "Gent",
+        "translationId": 54,
         "sku": [
           "AAT01",
           "AAT02",
@@ -48,97 +45,76 @@
     ],
     "productLineTranslations": [{
       "id": 54,
-      "name": "Gent",
       "description": "Un design innovant",
       "language": "FR"
     },
     {
-      "id": 55,
-      "name": "Gent",
+      "id": 54,
       "description": "An innovative design",
       "language": "EN"
     },
     {
-      "id": 56,
-      "name": "Gent",
+      "id": 54,
       "description": "Ein innovatives Design",
       "language": "DE"
     }],
     "watches": [
       {
         "sku": "AAT01",
-        "translations": [
-          67,
-          68,
-          69
-        ]
+        "name": "SUMMER LEAVES",
+        "translationId": 67
       },
       {
         "sku": "AAT02",
-        "translations": [
-          70,
-          71,
-          72
-        ]
+        "name": "SISTEM KAMU",
+        "translations": 70
       },
       {
         "sku": "AAT03",
-        "translations": [
-          73,
-          74,
-          75
-        ]
+        "name": "BORDUJAS",
+        "translations": 73
       }
     ],
     "watchTranslations": [{
       "id": 67,
-      "name": "SUMMER LEAVES",
       "description": "Tout ceci est bien joli",
       "language": "FR"
     },
     {
-      "id": 68,
-      "name": "SUMMER LEAVES",
+      "id": 67,
       "description": "All of this is great",
       "language": "EN"
     },
     {
-      "id": 69,
-      "name": "SUMMER LEAVES",
+      "id": 67,
       "description": "Das alles ist großartig",
       "language": "DE"
     }, {
       "id": 70,
-      "name": "SISTEM KAMU",
       "description": "Parfait et sublime",
       "language": "FR"
     },
     {
-      "id": 71,
-      "title": "SISTEM KAMU",
+      "id": 70,
       "description": "Perfect and wonderful",
       "language": "EN"
     },
     {
-      "id": 72,
-      "title": "SISTEM KAMU",
+      "id": 70,
       "description": "Perfekt und wunderbar",
       "language": "DE"
     }, {
       "id": 73,
-      "title": "BORDUJAS",
       "description": "Indémodable",
       "language": "FR"
     },
     {
-      "id": 74,
-      "name": "BORDUJAS",
+      "id": 73,
       "description": "Timeless",
       "language": "EN"
     },
     {
-      "id": 75,
-      "name": "BORDUJAS",
+      "id": 73,
       "description": "zeitlos",
       "lang": "DE"
     }],
