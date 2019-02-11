@@ -67,12 +67,12 @@
       {
         "sku": "AAT02",
         "name": "SISTEM KAMU",
-        "translations": 70
+        "translationId": 70
       },
       {
         "sku": "AAT03",
         "name": "BORDUJAS",
-        "translations": 73
+        "translationId": 73
       }
     ],
     "watchTranslations": [{
