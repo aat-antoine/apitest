@@ -66,6 +66,13 @@
       {
         "sku": "AAT01",
         "name": "SUMMER LEAVES",
+        "imageUrls": [
+          "http://static.swatch.com/images/product/SUOW100/sa000/SUOW100_sa000_nvr.jpg"
+        ],
+        "thumbnailUrls": [
+          "http://static.swatch.com/images/product/SUOW100/sa000/SUOW100_sa000_sr10.jpg"
+        ],
+        "artist": "Jeremy Scott",
         "translationId": 67
       },
       {
@@ -82,44 +89,107 @@
     "watchTranslations": [{
       "id": 67,
       "description": "Tout ceci est bien joli",
+      "itemColour": "Vert",
+      "strapColour": "Noir",
+      "strapMaterial": "Cuir",
+      "dialColour": "Transparent",
+      "caseColour": "Jaune",
+      "caseMaterial": "Acier inoxydable",
+      "movement": "Quartz",
       "language": "FR"
     },
     {
       "id": 67,
       "description": "All of this is great",
+      "itemColour": "Green",
+      "strapColour": "Black",
+      "strapMaterial": "Leather",
+      "dialColour": "Transparent",
+      "caseColour": "Yellow",
+      "caseMaterial": "St. Steel Adjustable",
+      "movement": "Quartz",
       "language": "EN"
     },
     {
       "id": 67,
       "description": "Das alles ist großartig",
+      "itemColour": "Grün",
+      "strapColour": "Schwarz",
+      "strapMaterial": "Leder",
+      "dialColour": "Transparent",
+      "caseColour": "Gelb",
+      "caseMaterial": "Edelstahl, verstellbar",
+      "movement": "Quarz",
       "language": "DE"
     }, {
       "id": 70,
       "description": "Parfait et sublime",
+      "itemColour": "Vert",
+      "strapColour": "Noir",
+      "strapMaterial": "Cuir",
+      "dialColour": "Transparent",
+      "caseColour": "Jaune",
+      "caseMaterial": "Acier inoxydable",
+      "movement": "Quartz",
       "language": "FR"
     },
     {
       "id": 70,
       "description": "Perfect and wonderful",
+      "itemColour": "Green",
+      "strapColour": "Black",
+      "strapMaterial": "Leather",
+      "dialColour": "Transparent",
+      "caseColour": "Yellow",
+      "caseMaterial": "St. Steel Adjustable",
+      "movement": "Quartz",
       "language": "EN"
     },
     {
       "id": 70,
       "description": "Perfekt und wunderbar",
+      "itemColour": "Grün",
+      "strapColour": "Schwarz",
+      "strapMaterial": "Leder",
+      "dialColour": "Transparent",
+      "caseColour": "Gelb",
+      "caseMaterial": "Edelstahl, verstellbar",
+      "movement": "Quarz",
       "language": "DE"
     }, {
       "id": 73,
       "description": "Indémodable",
+      "itemColour": "Vert",
+      "strapColour": "Noir",
+      "strapMaterial": "Cuir",
+      "dialColour": "Transparent",
+      "caseColour": "Jaune",
+      "caseMaterial": "Acier inoxydable",
+      "movement": "Quartz",
       "language": "FR"
     },
     {
       "id": 73,
       "description": "Timeless",
+      "itemColour": "Green",
+      "strapColour": "Black",
+      "strapMaterial": "Leather",
+      "dialColour": "Transparent",
+      "caseColour": "Yellow",
+      "caseMaterial": "St. Steel Adjustable",
+      "movement": "Quartz",
       "language": "EN"
     },
     {
       "id": 73,
       "description": "zeitlos",
+      "itemColour": "Grün",
+      "strapColour": "Schwarz",
+      "strapMaterial": "Leder",
+      "dialColour": "Transparent",
+      "caseColour": "Gelb",
+      "caseMaterial": "Edelstahl, verstellbar",
+      "movement": "Quarz",
       "lang": "DE"
     }],
     "texts": [{
