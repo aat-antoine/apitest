@@ -66,6 +66,7 @@
       {
         "sku": "AAT01",
         "name": "SUMMER LEAVES",
+        "collectionCat": "Chrono",
         "imageUrls": [
           "http://static.swatch.com/images/product/SUOW100/sa000/SUOW100_sa000_nvr.jpg"
         ],
@@ -78,6 +79,7 @@
       {
         "sku": "AAT02",
         "name": "SISTEM KAMU",
+        "collectionCat": "Chrono",
         "imageUrls": [
           "http://static.swatch.com/images/product/SUOW100/sa000/SUOW100_sa000_nvr.jpg"
         ],
@@ -90,6 +92,7 @@
       {
         "sku": "AAT03",
         "name": "BORDUJAS",
+        "collectionCat": "Chrono",
         "imageUrls": [
           "http://static.swatch.com/images/product/SUOW100/sa000/SUOW100_sa000_nvr.jpg"
         ],
