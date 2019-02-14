@@ -1,21 +1,41 @@
 {
   "catalog": {
     "years": [{
-       "year": "1986",
+       "year": "1983",
        "imageUrl": "https://static.swatch.com/images/product/GZ191/sa000/GZ191_sa000_nvs.jpg",
        "backgroundUrl": "https://static.swatch.com/images/product/GZ191/sa000/GZ191_sa000_nvs.jpg"
+     }, {
+       "year": "1984",
+       "imageUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg",
+       "backgroundUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg"
+     }, {
+       "year": "1985",
+       "imageUrl": "https://static.swatch.com/images/product/GN718C/sa000/GN718C_sa000_nvs.jpg",
+       "backgroundUrl": "https://static.swatch.com/images/product/GN718C/sa000/GN718C_sa000_nvs.jpg"
+     }, {
+       "year": "1986",
+       "imageUrl": "https://static.swatch.com/images/product/GN718C/sa000/GN718C_sa000_nvs.jpg",
+       "backgroundUrl": "https://static.swatch.com/images/product/GN718C/sa000/GN718C_sa000_nvs.jpg"
      }, {
        "year": "1987",
        "imageUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg",
        "backgroundUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg"
      }, {
+       "year": "1988",
+       "imageUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg",
+       "backgroundUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg"
+     }, {
+       "year": "1989",
+       "imageUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg",
+       "backgroundUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg"
+     }, {
        "year": "1990",
-       "imageUrl": "https://static.swatch.com/images/product/GN718C/sa000/GN718C_sa000_nvs.jpg",
-       "backgroundUrl": "https://static.swatch.com/images/product/GN718C/sa000/GN718C_sa000_nvs.jpg"
+       "imageUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg",
+       "backgroundUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg"
      }, {
        "year": "1991",
-       "imageUrl": "https://static.swatch.com/images/product/GN718C/sa000/GN718C_sa000_nvs.jpg",
-       "backgroundUrl": "https://static.swatch.com/images/product/GN718C/sa000/GN718C_sa000_nvs.jpg"
+       "imageUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg",
+       "backgroundUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg"
      }
     ],
     "languages": [{
