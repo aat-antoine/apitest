@@ -78,8 +78,8 @@
     "watches": [
       {
         "sku": "AAT01",
-        "name": "SUMMER LEAVES",
-        "collectionCat": "Chrono",
+        "name": "LINUSA",
+        "collectionCat": "XM2018",
         "description": 67,
         "imageUrls": [
           "http://static.swatch.com/images/product/SUOW100/sa000/SUOW100_sa000_nvr.jpg"
@@ -88,7 +88,13 @@
           "http://static.swatch.com/images/product/SUOW100/sa000/SUOW100_sa000_sr10.jpg"
         ],
         "artist": "Jeremy Scott",
-        "caseMaterial": 1
+        "caseMaterial": 2,
+        "caseColour": 10,
+        "itemColour": 13,
+        "strapColour": 15,
+        "strapMaterial": 1,
+        "dialColour": 10,
+        "movement": 1
       },
       {
         "sku": "AAT02",
@@ -102,7 +108,13 @@
           "http://static.swatch.com/images/product/SUOW100/sa000/SUOW100_sa000_sr10.jpg"
         ],
         "artist": "Jeremy Scott",
-        "caseMaterial": 12
+        "caseMaterial": 2,
+        "caseColour": 10,
+        "itemColour": 13,
+        "strapColour": 15,
+        "strapMaterial": 1,
+        "dialColour": 10,
+        "movement": 1
       },
       {
         "sku": "AAT03",
@@ -125,7 +137,7 @@
         "movement": 1
       }
     ],
-    "caseMaterials": [{
+    "caseMaterials": [
       {
         "id": 1,
         "title": "Aluminium",
@@ -171,8 +183,8 @@
         "title": "Diaphane",
         "language": "DE"
       }
-    }],
-    "strapMaterials": [{
+    ],
+    "strapMaterials": [
       {
         "id": 1,
         "title": "Acier inoxydable ajustable",
@@ -218,8 +230,8 @@
         "title": "XXL-Spezial",
         "language": "DE"
       }
-    }],
-    "colors": [{
+    ],
+    "colors": [
       {
         "id": 10,
         "title": "Vert",
@@ -265,67 +277,76 @@
         "title": "Grau",
         "language": "DE"
       }
-    }],
-    "descriptions": [{
-      "id": 67,
-      "watchDescription": "Tout ceci est bien joli",
-      "collectionDescription": "Lorem ipsum",
-      "language": "FR"
-    },
-    {
-      "id": 67,
-      "watchDescription": "All of this is great",
-      "collectionDescription": "Lorem ipsum",
-      "language": "EN"
-    },
-    {
-      "id": 67,
-      "watchDescription": "Das alles ist großartig",
-      "collectionDescription": "Lorem ipsum",
-      "language": "DE"
-    }, {
-      "id": 70,
-      "watchDescription": "Parfait et sublime",
-      "collectionDescription": "Lorem ipsum",
-      "language": "FR"
-    },
-    {
-      "id": 70,
-      "watchDescription": "Perfect and wonderful",
-      "collectionDescription": "Lorem ipsum",
-      "language": "EN"
-    },
-    {
-      "id": 70,
-      "watchDescription": "Perfekt und wunderbar",
-      "collectionDescription": "Lorem ipsum",
-      "language": "DE"
-    }],
-    "movements": [{
-      "id": 1,
-      "value": "Quartz",
-      "language": "FR"
-    }, {
-      "id": 1,
-      "value": "Quartz",
-      "language": "EN"
-    }, {
-      "id": 1,
-      "value": "Quarz",
-      "language": "DE"
-    }],
-    "texts": [{
-      "key": "home",
-      "value": "Explorer toutes les collections swatch de 1983 à nos jours",
-      "language": "FR"
-    }, {
-      "key": "home",
-      "value": "Explore all swatch collections from 1983 to now",
-      "language": "EN"
-    }, {
-      "key": "home",
-      "value": "Entdecken Sie alle Swatch-Sammlungen von 1983 bis heute",
-      "language": "DE"
-    }]
+    ],
+    "descriptions": [
+      {
+        "id": 67,
+        "watchDescription": "Tout ceci est bien joli",
+        "collectionDescription": "Lorem ipsum",
+        "language": "FR"
+      },
+      {
+        "id": 67,
+        "watchDescription": "All of this is great",
+        "collectionDescription": "Lorem ipsum",
+        "language": "EN"
+      },
+      {
+        "id": 67,
+        "watchDescription": "Das alles ist großartig",
+        "collectionDescription": "Lorem ipsum",
+        "language": "DE"
+      }, 
+      {
+        "id": 70,
+        "watchDescription": "Parfait et sublime",
+        "collectionDescription": "Lorem ipsum",
+        "language": "FR"
+      },
+      {
+        "id": 70,
+        "watchDescription": "Perfect and wonderful",
+        "collectionDescription": "Lorem ipsum",
+        "language": "EN"
+      },
+      {
+        "id": 70,
+        "watchDescription": "Perfekt und wunderbar",
+        "collectionDescription": "Lorem ipsum",
+        "language": "DE"
+      }
+    ],
+    "movements": [
+      {
+        "id": 1,
+        "value": "Quartz",
+        "language": "FR"
+      }, {
+        "id": 1,
+        "value": "Quartz",
+        "language": "EN"
+      }, {
+        "id": 1,
+        "value": "Quarz",
+        "language": "DE"
+      }
+    ],
+    "texts": [
+      {
+        "key": "home",
+        "value": "Explorer toutes les collections swatch de 1983 à nos jours",
+        "language": "FR"
+      }, 
+      {
+        "key": "home",
+        "value": "Explore all swatch collections from 1983 to now",
+        "language": "EN"
+      }, 
+      {
+        "key": "home",
+        "value": "Entdecken Sie alle Swatch-Sammlungen von 1983 bis heute",
+        "language": "DE"
+      }
+    ]
   }
 }
