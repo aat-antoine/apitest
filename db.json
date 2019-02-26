@@ -231,7 +231,7 @@
         "language": "DE"
       }
     ],
-    "colors": [
+    "colours": [
       {
         "id": 10,
         "title": "Vert",
@@ -282,37 +282,31 @@
       {
         "id": 67,
         "watchDescription": "Tout ceci est bien joli",
-        "collectionDescription": "Lorem ipsum",
         "language": "FR"
       },
       {
         "id": 67,
         "watchDescription": "All of this is great",
-        "collectionDescription": "Lorem ipsum",
         "language": "EN"
       },
       {
         "id": 67,
         "watchDescription": "Das alles ist großartig",
-        "collectionDescription": "Lorem ipsum",
         "language": "DE"
       }, 
       {
         "id": 70,
         "watchDescription": "Parfait et sublime",
-        "collectionDescription": "Lorem ipsum",
         "language": "FR"
       },
       {
         "id": 70,
         "watchDescription": "Perfect and wonderful",
-        "collectionDescription": "Lorem ipsum",
         "language": "EN"
       },
       {
         "id": 70,
         "watchDescription": "Perfekt und wunderbar",
-        "collectionDescription": "Lorem ipsum",
         "language": "DE"
       }
     ],
