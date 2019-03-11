@@ -101,65 +101,68 @@
     }],
     "watches": [
       {
-        "sku": "AAT01",
-        "name": "LINUSA",
-        "collectionCat": "XM2018",
-        "description": 67,
-        "imageUrls": [
-          "http://static.swatch.com/images/product/SUOW100/sa000/SUOW100_sa000_nvr.jpg"
-        ],
-        "thumbnailUrls": [
-          "http://static.swatch.com/images/product/SUOW100/sa000/SUOW100_sa000_sr10.jpg"
-        ],
-        "artist": 1,
-        "caseMaterial": 2,
-        "caseColour": 10,
-        "itemColour": 13,
-        "strapColour": 15,
-        "strapMaterial": 1,
-        "dialColour": 10,
-        "movement": 1
-      },
+            "sku": "YLG137",
+            "name": "LINUSA",
+            "imageUrls": [
+                "https://static.swatch.com/images/product/YLG137/sa000/YLG137_sa000_nvr.jpg"
+            ],
+            "thumbnailUrls": [
+                "https://static.swatch.com/images/product/YLG137/sa000/YLG137_sa000_sr10.jpg"
+            ],
+            "artist": 0,
+            "movement": 3,
+            "packaging": 3,
+            "caseMaterial": 6,
+            "caseColour": 5,
+            "itemColour": 2,
+            "strapColour": 4,
+            "strapMaterial": 3,
+            "dialColour": 2,
+            "description": 564,
+            "collectionCategory": "XM2018"
+        },
       {
-        "sku": "AAT02",
-        "name": "SISTEM KAMU",
-        "collectionCat": "Chrono",
-        "description": 67,
-        "imageUrls": [
-          "http://static.swatch.com/images/product/SUOW100/sa000/SUOW100_sa000_nvr.jpg"
-        ],
-        "thumbnailUrls": [
-          "http://static.swatch.com/images/product/SUOW100/sa000/SUOW100_sa000_sr10.jpg"
-        ],
-        "artist": 1,
-        "caseMaterial": 2,
-        "caseColour": 10,
-        "itemColour": 13,
-        "strapColour": 15,
-        "strapMaterial": 1,
-        "dialColour": 10,
-        "movement": 1
-      },
+            "sku": "ATJDJG9",
+            "name": "LINUSA",
+            "imageUrls": [
+                "https://static.swatch.com/images/product/YLG137/sa000/YLG137_sa000_nvr.jpg"
+            ],
+            "thumbnailUrls": [
+                "https://static.swatch.com/images/product/YLG137/sa000/YLG137_sa000_sr10.jpg"
+            ],
+            "artist": 0,
+            "movement": 3,
+            "packaging": 3,
+            "caseMaterial": 6,
+            "caseColour": 5,
+            "itemColour": 2,
+            "strapColour": 4,
+            "strapMaterial": 3,
+            "dialColour": 2,
+            "description": 564,
+            "collectionCategory": "XM2018"
+        },
       {
-        "sku": "AAT03",
-        "name": "BORDUJAS",
-        "collectionCat": "Chrono",
-        "description": 70,
-        "imageUrls": [
-          "http://static.swatch.com/images/product/SUOW100/sa000/SUOW100_sa000_nvr.jpg"
-        ],
-        "thumbnailUrls": [
-          "http://static.swatch.com/images/product/SUOW100/sa000/SUOW100_sa000_sr10.jpg"
-        ],
-        "artist": 1,
-        "caseMaterial": 2,
-        "caseColour": 10,
-        "itemColour": 13,
-        "strapColour": 15,
-        "strapMaterial": 1,
-        "dialColour": 10,
-        "movement": 1
-      }
+            "sku": "JAHJS87",
+            "name": "LINUSA",
+            "imageUrls": [
+                "https://static.swatch.com/images/product/YLG137/sa000/YLG137_sa000_nvr.jpg"
+            ],
+            "thumbnailUrls": [
+                "https://static.swatch.com/images/product/YLG137/sa000/YLG137_sa000_sr10.jpg"
+            ],
+            "artist": 0,
+            "movement": 3,
+            "packaging": 3,
+            "caseMaterial": 6,
+            "caseColour": 5,
+            "itemColour": 2,
+            "strapColour": 4,
+            "strapMaterial": 3,
+            "dialColour": 2,
+            "description": 564,
+            "collectionCategory": "XM2018"
+        }
     ],
     "caseMaterials": [
       {
