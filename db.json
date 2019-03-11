@@ -214,47 +214,47 @@
     "strapMaterials": [
       {
         "id": 1,
-        "title": "Acier inoxydable ajustable",
+        "value": "Acier inoxydable ajustable",
         "language": "FR"
       },
       {
         "id": 1,
-        "title": "St. Steel Adjustable",
+        "value": "St. Steel Adjustable",
         "language": "EN"
       },
       {
         "id": 1,
-        "title": "Edelstahl, verstellbar",
+        "value": "Edelstahl, verstellbar",
         "language": "DE"
       },
       {
         "id": 10,
-        "title": "Velcro",
+        "value": "Velcro",
         "language": "FR"
       },
       {
         "id": 10,
-        "title": "Velcro",
+        "value": "Velcro",
         "language": "EN"
       },
       {
         "id": 10,
-        "title": "Klettband",
+        "value": "Klettband",
         "language": "DE"
       },
       {
         "id": 11,
-        "title": "XXL-spécial",
+        "value": "XXL-spécial",
         "language": "FR"
       },
       {
         "id": 11,
-        "title": "XXL-Special",
+        "value": "XXL-Special",
         "language": "EN"
       },
       {
         "id": 11,
-        "title": "XXL-Spezial",
+        "value": "XXL-Spezial",
         "language": "DE"
       }
     ],
