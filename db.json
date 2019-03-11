@@ -167,47 +167,47 @@
     "caseMaterials": [
       {
         "id": 1,
-        "title": "Aluminium",
+        "value": "Aluminium",
         "language": "FR"
       },
       {
         "id": 1,
-        "title": "Aluminium",
+        "value": "Aluminium",
         "language": "EN"
       },
       {
         "id": 1,
-        "title": "Aluminium",
+        "value": "Aluminium",
         "language": "DE"
       },
       {
         "id": 12,
-        "title": "Argent",
+        "value": "Argent",
         "language": "FR"
       },
       {
         "id": 12,
-        "title": "Silver",
+        "value": "Silver",
         "language": "EN"
       },
       {
         "id": 12,
-        "title": "Silber",
+        "value": "Silber",
         "language": "DE"
       },
       {
         "id": 2,
-        "title": "Diaphane",
+        "value": "Diaphane",
         "language": "FR"
       },
       {
         "id": 2,
-        "title": "Diaphane",
+        "value": "Diaphane",
         "language": "EN"
       },
       {
         "id": 2,
-        "title": "Diaphane",
+        "value": "Diaphane",
         "language": "DE"
       }
     ],
