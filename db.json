@@ -261,47 +261,47 @@
     "colours": [
       {
         "id": 10,
-        "title": "Vert",
+        "value": "Vert",
         "language": "FR"
       }, 
       {
         "id": 10,
-        "title": "Green",
+        "value": "Green",
         "language": "EN"
       },
       {
         "id": 10,
-        "title": "Grün",
+        "value": "Grün",
         "language": "DE"
       },
       {
         "id": 13,
-        "title": "Bleu",
+        "value": "Bleu",
         "language": "FR"
       },
       {
         "id": 13,
-        "title": "Blue",
+        "value": "Blue",
         "language": "EN"
       },
       {
         "id": 13,
-        "title": "Blau",
+        "value": "Blau",
         "language": "DE"
       },
       {
         "id": 15,
-        "title": "Gris",
+        "value": "Gris",
         "language": "FR"
       },
       {
         "id": 15,
-        "title": "Grey",
+        "value": "Grey",
         "language": "EN"
       },
       {
         "id": 15,
-        "title": "Grau",
+        "value": "Grau",
         "language": "DE"
       }
     ],
