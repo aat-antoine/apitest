@@ -109,27 +109,6 @@
             "dialColour": 2,
             "description": 564,
             "collectionCategory": "XM2018"
-        },
-      {
-            "sku": "JAHJS87",
-            "name": "LINUSA",
-            "imageUrls": [
-                "https://static.swatch.com/images/product/YLG137/sa000/YLG137_sa000_nvr.jpg"
-            ],
-            "thumbnailUrls": [
-                "https://static.swatch.com/images/product/YLG137/sa000/YLG137_sa000_sr10.jpg"
-            ],
-            "artist": 0,
-            "movement": 3,
-            "packaging": 3,
-            "caseMaterial": 6,
-            "caseColour": 5,
-            "itemColour": 2,
-            "strapColour": 4,
-            "strapMaterial": 3,
-            "dialColour": 2,
-            "description": 564,
-            "collectionCategory": "XM2018"
         }
     ],
     "caseMaterials": [
