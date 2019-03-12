@@ -352,6 +352,28 @@
         "language": "DE"
       }
     ],
+      "packaging": [
+        {
+            "id": 0,
+            "value": "Not Defined",
+            "language": "EN"
+        },
+        {
+            "id": 1,
+            "value": "Sleeve",
+            "language": "EN"
+        },
+        {
+            "id": 2,
+            "value": "Special",
+            "language": "EN"
+        },
+        {
+            "id": 3,
+            "value": "Standard",
+            "language": "EN"
+        }
+    ],
     "artists": [
       {
         "id": 1,
