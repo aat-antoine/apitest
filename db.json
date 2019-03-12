@@ -147,21 +147,6 @@
         "id": 1,
         "value": "Aluminium",
         "language": "DE"
-      },
-      {
-        "id": 2,
-        "value": "Diaphane",
-        "language": "FR"
-      },
-      {
-        "id": 2,
-        "value": "Diaphane",
-        "language": "EN"
-      },
-      {
-        "id": 2,
-        "value": "Diaphane",
-        "language": "DE"
       }
     ],
     "strapMaterials": [
@@ -211,26 +196,6 @@
         "id": 10,
         "value": "Grün",
         "language": "DE"
-      },
-      {
-        "id": 13,
-        "value": "Bleu",
-        "language": "FR"
-      },
-      {
-        "id": 13,
-        "value": "Blue",
-        "language": "EN"
-      },
-      {
-        "id": 13,
-        "value": "Blau",
-        "language": "DE"
-      },
-      {
-        "id": 15,
-        "value": "Gris",
-        "language": "FR"
       }
     ],
     "descriptions": [
@@ -247,21 +212,6 @@
       {
         "id": 67,
         "watchDescription": "Das alles ist großartig",
-        "language": "DE"
-      }, 
-      {
-        "id": 70,
-        "watchDescription": "Parfait et sublime",
-        "language": "FR"
-      },
-      {
-        "id": 70,
-        "watchDescription": "Perfect and wonderful",
-        "language": "EN"
-      },
-      {
-        "id": 70,
-        "watchDescription": "Perfekt und wunderbar",
         "language": "DE"
       }
     ],
