@@ -135,27 +135,6 @@
             "collectionCategory": "XM2018"
         },
       {
-            "sku": "ATJDJG9",
-            "name": "LINUSA",
-            "imageUrls": [
-                "https://static.swatch.com/images/product/YLG137/sa000/YLG137_sa000_nvr.jpg"
-            ],
-            "thumbnailUrls": [
-                "https://static.swatch.com/images/product/YLG137/sa000/YLG137_sa000_sr10.jpg"
-            ],
-            "artist": 0,
-            "movement": 3,
-            "packaging": 3,
-            "caseMaterial": 6,
-            "caseColour": 5,
-            "itemColour": 2,
-            "strapColour": 4,
-            "strapMaterial": 3,
-            "dialColour": 2,
-            "description": 564,
-            "collectionCategory": "XM2018"
-        },
-      {
             "sku": "JAHJS87",
             "name": "LINUSA",
             "imageUrls": [
@@ -191,21 +170,6 @@
       {
         "id": 1,
         "value": "Aluminium",
-        "language": "DE"
-      },
-      {
-        "id": 12,
-        "value": "Argent",
-        "language": "FR"
-      },
-      {
-        "id": 12,
-        "value": "Silver",
-        "language": "EN"
-      },
-      {
-        "id": 12,
-        "value": "Silber",
         "language": "DE"
       },
       {
@@ -254,21 +218,6 @@
         "id": 10,
         "value": "Klettband",
         "language": "DE"
-      },
-      {
-        "id": 11,
-        "value": "XXL-spécial",
-        "language": "FR"
-      },
-      {
-        "id": 11,
-        "value": "XXL-Special",
-        "language": "EN"
-      },
-      {
-        "id": 11,
-        "value": "XXL-Spezial",
-        "language": "DE"
       }
     ],
     "colours": [
@@ -306,16 +255,6 @@
         "id": 15,
         "value": "Gris",
         "language": "FR"
-      },
-      {
-        "id": 15,
-        "value": "Grey",
-        "language": "EN"
-      },
-      {
-        "id": 15,
-        "value": "Grau",
-        "language": "DE"
       }
     ],
     "descriptions": [
