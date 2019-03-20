@@ -55,14 +55,7 @@
     ],
     "productLines": [
       { 
-        "id": 12, 
-        "name": "Originals",
-        "imageUrl": "https://drive.google.com/uc?export=view&id=1fFsXN0Ugs51hZmE2Y1pBPQUeCJqbgCwA",
-        "year": "1987"
-      },
-      { 
         "id": 73, 
-        "parentId": 12,
         "name": "Gent",
         "imageUrl": "https://drive.google.com/uc?export=view&id=1fFsXN0Ugs51hZmE2Y1pBPQUeCJqbgCwA",
         "translationId": 54,
