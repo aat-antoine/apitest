@@ -54,8 +54,14 @@
     }
     ],
     "productLines": [
+      {
+        "id": 12,
+        "name": "Originals",
+        "imageUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg"
+      },
       { 
         "id": 73, 
+        "parentId": 12,
         "name": "Gent",
         "imageUrl": "https://drive.google.com/uc?export=view&id=1fFsXN0Ugs51hZmE2Y1pBPQUeCJqbgCwA",
         "translationId": 54,
@@ -249,4 +255,3 @@
     ]
   }
 }
-    
