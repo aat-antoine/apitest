@@ -89,26 +89,27 @@
     }],
     "watches": [
       {
-            "sku": "YLG137",
-            "name": "LINUSA",
-            "imageUrls": [
-                "https://static.swatch.com/images/product/YLG137/sa000/YLG137_sa000_nvr.jpg"
-            ],
-            "thumbnailUrls": [
-                "https://static.swatch.com/images/product/YLG137/sa000/YLG137_sa000_sr10.jpg"
-            ],
-            "artist": 0,
-            "movement": 3,
-            "packaging": 3,
-            "caseMaterial": 6,
-            "caseColour": 5,
-            "itemColour": 2,
-            "strapColour": 4,
-            "strapMaterial": 3,
-            "dialColour": 2,
-            "description": 564,
-            "collectionCategory": "XM2018"
-        }
+        "sku": "YLG137",
+        "name": "LINUSA",
+        "collectionCategory": "XM2018",
+        "imageUrls": [
+            "https://static.swatch.com/images/product/YLG137/sa000/YLG137_sa000_nvr.jpg"
+        ],
+        "thumbnailUrls": [
+            "https://static.swatch.com/images/product/YLG137/sa000/YLG137_sa000_sr10.jpg"
+        ],
+        "artist": 0,
+        "itemColour": 2,
+        "strapColour": 4,
+        "strapMaterial": 3,
+        "dialColour": 2,
+        "caseColour": 5,
+        "caseMaterial": 6,
+        "movement": 3,
+        "packaging": 3,
+        "description": 564,
+        "isSquareTemplate": false
+      }
     ],
     "caseMaterials": [
       {
@@ -176,6 +177,13 @@
         "language": "DE"
       }
     ],
+    "packagings": [
+      {
+        "id": 3,
+        "value": "Sleeve",
+        "language": "EN"
+      }
+    ],
     "descriptions": [
       {
         "id": 67,
@@ -208,27 +216,27 @@
         "language": "DE"
       }
     ],
-      "packaging": [
-        {
-            "id": 0,
-            "value": "Not Defined",
-            "language": "EN"
-        },
-        {
-            "id": 1,
-            "value": "Sleeve",
-            "language": "EN"
-        },
-        {
-            "id": 2,
-            "value": "Special",
-            "language": "EN"
-        },
-        {
-            "id": 3,
-            "value": "Standard",
-            "language": "EN"
-        }
+    "packaging": [
+      {
+          "id": 0,
+          "value": "Not Defined",
+          "language": "EN"
+      },
+      {
+          "id": 1,
+          "value": "Sleeve",
+          "language": "EN"
+      },
+      {
+          "id": 2,
+          "value": "Special",
+          "language": "EN"
+      },
+      {
+          "id": 3,
+          "value": "Standard",
+          "language": "EN"
+      }
     ],
     "artists": [
       {
