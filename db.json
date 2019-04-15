@@ -57,7 +57,8 @@
       {
         "id": 12,
         "name": "Originals",
-        "imageUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg"
+        "imageUrl": "https://static.swatch.com/images/product/GJ700E/sa000/GJ700E_sa000_nvs.jpg",
+        "year": "1983"
       },
       { 
         "id": 73, 
