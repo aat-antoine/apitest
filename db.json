@@ -225,17 +225,17 @@
     ],
     "texts": [
       {
-        "key": "home",
+        "key": "home_title",
         "value": "Explorer toutes les collections swatch de 1983 à nos jours",
         "language": "FR"
       }, 
       {
-        "key": "home",
+        "key": "home_title",
         "value": "Explore all swatch collections from 1983 to now",
         "language": "EN"
       }, 
       {
-        "key": "home",
+        "key": "home_title",
         "value": "Entdecken Sie alle Swatch-Sammlungen von 1983 bis heute",
         "language": "DE"
       }
